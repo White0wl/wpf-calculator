@@ -1,0 +1,14 @@
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\WPF_1_\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\WPF_1_\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\WPF_1_\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\WPF_1_\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\WPF_1_\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\WPF_1_\Calculator\Calculator\obj\Debug\App.g.cs
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\WPF_1_\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\WPF_1_\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\WPF_1_\Calculator\Calculator\obj\Debug\MainWindow.baml
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\WPF_1_\Calculator\Calculator\obj\Debug\Calculator.g.resources
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\WPF_1_\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\WPF_1_\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\WPF_1_\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\WPF_1_\Calculator\Calculator\obj\Debug\Calculator.pdb
